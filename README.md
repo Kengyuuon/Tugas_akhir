@@ -3,8 +3,8 @@ Tugas Akhir - Mobile Automation
 
 <b>Install</b>
 Node JS
-Java SDK & JAVA_HOME
-Android Studio & ANDROID_HOME
+Java SDK & set JAVA_HOME
+Android Studio & set ANDROID_HOME
 Appium Server
 Appium Inspector
 
@@ -19,13 +19,13 @@ Appium Inspector
 Link Document: https://docs.google.com/spreadsheets/d/1OAfe6p-VG5NUPmXzXYWk2chUVlDskoOs93nZhXvN9aE/edit#gid=1757652953
 
 ## Create an automation script flow from opening the app to opening the home screen 
-Link: 
+Link: https://github.com/Kengyuuon/Tugas_akhir/blob/main/test/specs/lasttesting.js
 
 ## Video Recording
-Link Video recording:
+Link Video recording: 
 
 ## Push your work to github
-Link: 
+Link: https://github.com/Kengyuuon/Tugas_akhir
 
 ## Thanks
 
