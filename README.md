@@ -1,12 +1,13 @@
 # Tugas-Akhir
 Tugas Akhir - Mobile Automation 
 
-<b>Install</b>
-Node JS
-Java SDK & set JAVA_HOME
-Android Studio & set ANDROID_HOME
-Appium Server
-Appium Inspector
+## Need to be installed
+Node JS<br>
+Java SDK & set JAVA_HOME<br>
+Android Studio & set ANDROID_HOME<br>
+Appium Server<br>
+Appium Inspector<br>
+LDPlayer (Emulator)<br>
 
 ## How To run
 ```
