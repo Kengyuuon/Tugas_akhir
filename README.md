@@ -22,7 +22,7 @@ Link Document: https://docs.google.com/spreadsheets/d/1OAfe6p-VG5NUPmXzXYWk2chUV
 Link: https://github.com/Kengyuuon/Tugas_akhir/blob/main/test/specs/lasttesting.js
 
 ## Video Recording
-Link Video recording: 
+Link Video recording: https://drive.google.com/file/d/1ZZBQBf6MdHksCicVCXw-lc7srF1BJXaX/view?usp=drivesdk 
 
 ## Push your work to github
 Link: https://github.com/Kengyuuon/Tugas_akhir
